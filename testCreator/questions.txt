@@ -198,3 +198,80 @@
  b) No-code
  c) Cascata
  d! Desenho iterativo
+41. Quais dos seguintes NAO e um tipo de UI?
+ a) Interface grafica
+ b) Interface por voz
+ c) Interface por linha de comandos
+ d! Interface de usuario natural
+
+42. Quais dos seguintes e uma ideia correta de design?
+ a) Bom design sao bons graficos
+ b) Bom design e senso comum
+ c! Manter um design simples e intuitivo
+ d) A interface e feita no final
+
+43. Qual dos seguintes passos NAO se encontra no Modelo Cascata?
+ a) Especificacao de Requisitos
+ b! Realizacao
+ c) Concecao
+ d) Manutencao
+
+44. Qual a ordem correta do Modelo Cascata?
+ a! Especificacao de Requisitos, Concecao, Implementacao, Integracao e Teste, Manutencao
+ b) Concecao, Especificacao de Requisitos, Implementacao, Integracao e Teste, Manutencao
+ c) Especificacao de Requisitos, Concecao, Integracao e Teste, Implementacao, Manutencao
+ d) Concecao, Especificacao de Requisitos, Implementacao, Manutencao, Integracao e Teste
+
+45. Qual dos seguintes e uma critica ao Modelo Cascata?
+ a) Forte enfase na documentacao
+ b) Dificulta a identificacao precoce de requisitos
+ c! Progressao linear de fases
+ d) Nao se adapta a projetos de pequena dimensao
+
+46. Qual e a filosofia fundamental do Modelo Desenho Iterativo?
+a) Progressao linear de fases
+b! Fail fast, cedo e repetidamente
+c) Documentação extensiva
+d) Idear, prototipar e executar
+
+47. O que significa "fail fast" no contexto do Modelo Desenho Iterativo?
+a) Evitar falhas a todo custo
+b) Falhar lentamente para aprender gradualmente
+c! Identificar falhas rapidamente para corrigi-las
+d) Ignorar falhas durante o processo
+
+48. Qual é uma das etapas do Desenho Iterativo?
+a) Fase única de concepção
+b) Prototipagem final
+c) Avaliação única
+d! Identificação de necessidades e estabelecimento de requisitos
+
+49. Por que é importante diversificar ao gerar ideias no Desenho Iterativo?
+a) Para aumentar a complexidade
+b) Para tornar o processo mais demorado
+c! Para evitar bias e explorar várias soluções
+d) Para restringir as opções desde o início
+
+50. O que envolve a etapa de "Conceber soluções" no Desenho Iterativo?
+a) Criar protótipos funcionais
+b! Usar um modelo conceptual no design de interações
+c) Identificar problemas de usabilidade
+d) Gerar ideias
+
+51. O que é sugerido para criar protótipos na etapa de "Prototipar soluções"?
+a) Protótipos exclusivamente funcionais
+b) Protótipos apenas em papel
+c! Protótipos não funcionais e funcionais
+d) Ignorar completamente a prototipagem
+
+52. O que é destacado como um dos mantras do Modelo Desenho Iterativo?
+a) Evitar conhecer os utilizadores
+b) Ignorar capacidades físicas dos utilizadores
+c) "O utilizador é como eu"
+d! Conhecer os utilizadores
+
+53. Qual é o erro mais comum relacionado ao conhecimento dos utilizadores?
+a) Conhecer demasiado os utilizadores
+b) Não ser um utilizador típico
+c! Adaptar-se facilmente a más interfaces
+d) Evitar o contexto social dos utilizadores
