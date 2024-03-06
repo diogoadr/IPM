@@ -1,0 +1,200 @@
+1. Qual a vantagem das fontes de texto da familia "Serif"?
+ a) Evocam um efeito de nostalgia
+ b) Sao as mais apropriadas para ecras com baixa-resolucao
+ c! Ajudam a ler texto corrido
+ d) Apresentam um maior contraste
+2. Qual dos seguintes NAO e uma solucao para o "fat finger problem" no contexto dos "smartwatches"?
+ a) Texto preditivo
+ b! "Back-of-the-device" (BoD)
+ c) Gestos temporais
+ d) Separacao / "decoupling" do espaco de input e output
+3. Que tipo de sistema teria menos a beneficiar do metodo "Wizard-of-Oz"?
+ a) Interacao contextual
+ b) Reconhecimento de fala
+ c! Slideshow automatico de fotos
+ d) Reconhecimento de gestos
+4. Que cor e normalmente usada para comunicar o conceito de "precaucao"?
+ a! A cor amarela
+ b) A cor azul
+ c) A cor vemelha
+ d) A cor verde
+5. Qual o objetivo de um botao do tipo "Raised"?
+ a) Navegacao para a frente
+ b) Acao importante e ubiqua
+ c) Navegacao lateral
+ d! Depende da importancia relativa do botao no ecra
+6. Nos videos promocionais (tipo "Kickstarter") e comum o protagonista ser...
+ a) Uma pessoa comum
+ b) O utilizador final
+ c! O inventor ou CEO da empresa
+ d) Um ator
+7. Qual dos seguintes NAO e um elemento base (building block) do design grafico?
+ a! Formas
+ b) Pontos
+ c) Planos
+ d) Linhas
+8. A falta de retorno tactil e input "eyes-free" e particularmente importante em que dominio?
+ a) No dominio do "quantified-self"
+ b) No dominio dos jogos "mobile"
+ c) No dominio do "web browsing"
+ d! No dominio das interfaces automoveis
+9. Um prototipo vertical e tipicamente...
+ a! Funcional e pouco abrangente
+ b) Abrangente e pouco profundo
+ c) Profundo e abrangente
+ d) Um cenario de interacao
+10. Os ecras sensiveis ao toque sao um exemplo de dispositivos de movimento...
+ a) Hibrido
+ b! Absoluto
+ c) Depende
+ d) Relativo
+11. Qual dos seguintes NAO e um principio base do desenho visual?
+ a! Sobreposicao
+ b) Alinhamento
+ c) Espaco em branco
+ d) Ordenacao
+12. Quantos sao os principios base do desenho visual?
+ a) 6
+ b) 4
+ c) 10
+ d! 8
+13. O primeiro computador pessoal com interface grafica foi o...
+ a! Xerox Alto
+ b) Apple II
+ c) Macintosh
+ d) Apple I
+14. Que instrucao NAO faz parte do metodo "think-aloud"/"pensar alto"?
+ a) "Diga em voz alta o que esta a tentar fazer"
+ b) "Questione em voz alta o que suscita duvidas"
+ c) "Diga em voz alta o que esta a pensar"
+ d! "Diga em voz alta qualquer ideia que possa melhorar a interface"
+15. Quando devemos transitar para um prototipo de media-fidelidade?
+ a) Apos tres iteracoes ao prototipo de baixa-fidelidade
+ b! Quando o prototipo de baixa-fidelidade estiver estavel
+ c) Apos o storyboard
+ d) Apos uma iteracao ao prototipo de baixa-fidelidade
+16. Os prototipos de video sao importantes para demonstrar aplicacoes...
+ a) De escritorio (Word, Excel, etc.)
+ b) Cientificas (calculo, visualizacao)
+ c) De "backend" (bases de dados, etc.)
+ d! Ubiquas (smartphones, wearables, etc.)
+17. Texto com 20 pixeis (px) num ecra com 200dpi...
+ a) E visualmente igual a texto com 20px num ecra com 300dpi
+ b! E visualmente maior que texto com 20px num ecra com 300dpi
+ c) E visualmente maior que texto com 40px num ecra com 200dpi
+ d) E visualmente menor que texto com 20px num ecra com 300dpi
+18. Os prototipos de video servem tipicamente para...
+ a! Dar contexto as interfaces
+ b) Avaliar com os utilizadores finais
+ c) Convencer os investidores
+ d) Anunciar produtos
+19. Qual a metafora central a interface da maioria dos Sistemas Operativos para PC?
+ a) A do rolodex
+ b! A do tampo de secretaria (desktop)
+ c) A da estacao de comboio
+ d) A da casa
+20. O dynabook do Alan Key e um percursor do...
+ a) Macintosh
+ b) IBM PC
+ c! Tablet
+ d) SmartPhone
+21. As heuristicas de usabilidade foram desenvolvidas por...
+ a) Steve Jobs
+ b) Steve Wozniak
+ c) Paul Fitts
+ d! Jakob Nielsen
+22. Como se define o problema em que o dedo do utilizador cobre partes criticas do ecra durante o input?
+ a) "Finger oculision"
+ b! "Fat finger problem"
+ c) "Coupling occlusion"
+ d) "Fitts' choice"
+23. Qual das seguintes NAO e uma das heuristicas de usabilidade de Neilsen?
+ a! Garantir portabilidade
+ b) Correspondencia entre o sistema e o mundo real
+ c) Flexibilidade e eficiencia
+ d) Utilizador controla e exerce livre arbitrio
+24. A falta de retorno tactil e input "eyes-free" e particularmente importante em que dominio?
+ a) No dominio dos jogos "mobile"
+ b) No dominio do "quantified-self"
+ c! No dominio das interfaces automoveis
+ d) No dominio do "web browsing"
+25. Quando comparada com a experiencia de utilizacao (ou UX), a UI e...
+ a) mais focada na experiencia global com o sistema ou tecnologia
+ b) mais focada nas emocoes do utilizador
+ c) de analise mais subjetiva
+ d! de analise mais objetiva
+26. Qual dos seguintes desafios NAO e especifico a dispositivos moveis?
+ a) As modalidades de interacao
+ b) O tamanho
+ c! Respeitar as heuristicas de usabilidade
+ d) O contexto de utilizacao
+27. Qual do seguintes NAO e um principio base do desenho visual?
+ a) Alinhamento
+ b! Sobreposicao
+ c) Espaco em branco
+ d) Ordenacao
+28. A setima heuristica de usabilidade de Nielsen (flexibilidade e eficiencia) recomenda o uso de...
+ a! aceleradores
+ b) metodos empiricos
+ c) controlo por voz
+ d) metodos analiticos
+29. Qual dos seguintes e um mantra de IPM?
+ a) Bom design e bons graficos
+ b) A interface e feito no final do projeto
+ c! Conhecam os vossos utilizadores
+ d) Bom design e senso comum
+30. Que instrucao NAO faz parte do metodo "think-aloud"/"pensar alto"?
+ a) "Diga em voz alta o que esta a pensar"
+ b) "Questione em voz alta o que suscita duvidas"
+ c) "Diga em voz alta o que esta a tentar fazer"
+ d! "Diga em voz alta qualquer ideia que possa melhorar a interface"
+31. O que NAO comunicam os storyboards em IPM?
+ a! Os detalhes da interface
+ b) O fluxo de navegacao
+ c) Um objetivo
+ d) Uma sequencia
+32. Qual dos seguintes dispositivos NAO e considerado um dispositivo movel?
+ a) O "fitness tracker"
+ b) O telemovel
+ c) O "smartwatch"
+ d! O portatil
+33. Quais das seguintes disciplinas NAO interage diretamente com IPM?
+ a! Quimica
+ b) Ciencia da Computacao
+ c) Design
+ d) Ciencias Comportamentais
+34. Qual das seguintes NAO e uma das tres perspetivas de IPM?
+ a) Comunicacao
+ b) Controlo
+ c! Manutencao
+ d) Inferencia
+35. Qual dos seguintes NAO e um mito de "bom design"?
+ a) Bom design e senso comum
+ b! O departamento de recursos humanos conhece os utilizadores
+ c) Bom design e bons graficos
+ d) O departamento de marketing conhece os utilizadores
+36. Qual dos seguintes NAO e uma estrategia na terceira heuristica de usabilidade (o utilizador controla e exerce livre arbitrio)?
+ a! Controlo por voz
+ b) Back / Forward
+ c) Undo / Redo
+ d) O botao de cancel
+37. Qual das seguintes NAO e uma recomendacao da decima heuristica de usabilidade de Neilsen (dar ajuda e documentacao)?
+ a) Ser contextual
+ b! Revelar consistencia externa
+ c) Ser facil de pesquisar
+ d) Nao ser demasiado extensa
+38. Qual dos seguintes NAO tem um papel relevante durante a conducao de testes com o metodo "Wizard-of-Oz"?
+ a) O observador
+ b) O "computador"/"wizard"
+ c! O temporizador
+ d) O facilitador
+39. Qual dos seguintes NAO e um dos objetivos principais da cor?
+ a) Transmitir informacao
+ b) Melhorar a estetica
+ c) Atrair o olhar
+ d! Respeitar o racio dourado
+40. Qual o modelo de desenho usado em IPM?
+ a) Cascata inversa
+ b) No-code
+ c) Cascata
+ d! Desenho iterativo
