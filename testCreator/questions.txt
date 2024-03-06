@@ -224,42 +224,42 @@
  c! Progressao linear de fases
  d) Nao se adapta a projetos de pequena dimensao
 46. Qual e a filosofia fundamental do Modelo Desenho Iterativo?
-a) Progressao linear de fases
-b! Fail fast, cedo e repetidamente
-c) Documentacao extensiva
-d) Idear, prototipar e executar
+ a) Progressao linear de fases
+ b! Fail fast, cedo e repetidamente
+ c) Documentacao extensiva
+ d) Idear, prototipar e executar
 47. O que significa "fail fast" no contexto do Modelo Desenho Iterativo?
-a) Evitar falhas a todo custo
-b) Falhar lentamente para aprender gradualmente
-c! Identificar falhas rapidamente para corrigi-las
-d) Ignorar falhas durante o processo
+ a) Evitar falhas a todo custo
+ b) Falhar lentamente para aprender gradualmente
+ c! Identificar falhas rapidamente para corrigi-las
+ d) Ignorar falhas durante o processo
 48. Qual e uma das etapas do Desenho Iterativo?
-a) Fase unica de concepcao
-b) Prototipagem final
-c) Avaliacao unica
-d! Identificacao de necessidades e estabelecimento de requisitos
+ a) Fase unica de concepcao
+ b) Prototipagem final
+ c) Avaliacao unica
+ d! Identificacao de necessidades e estabelecimento de requisitos
 49. Por que e importante diversificar ao gerar ideias no Desenho Iterativo?
-a) Para aumentar a complexidade
-b) Para tornar o processo mais demorado
-c! Para evitar bias e explorar varias solucoes
-d) Para restringir as opcoes desde o inicio
+ a) Para aumentar a complexidade
+ b) Para tornar o processo mais demorado
+ c! Para evitar bias e explorar varias solucoes
+ d) Para restringir as opcoes desde o inicio
 50. O que envolve a etapa de "Conceber solucoes" no Desenho Iterativo?
-a) Criar prototipos funcionais
-b! Usar um modelo conceptual no design de interacoes
-c) Identificar problemas de usabilidade
-d) Gerar ideias
+ a) Criar prototipos funcionais
+ b! Usar um modelo conceptual no design de interacoes
+ c) Identificar problemas de usabilidade
+ d) Gerar ideias
 51. O que e sugerido para criar prototipos na etapa de "Prototipar solucoes"?
-a) Prototipos exclusivamente funcionais
-b) Prototipos apenas em papel
-c! Prototipos nao funcionais e funcionais
-d) Ignorar completamente a prototipagem
+ a) Prototipos exclusivamente funcionais
+ b) Prototipos apenas em papel
+ c! Prototipos nao funcionais e funcionais
+ d) Ignorar completamente a prototipagem
 52. O que e destacado como um dos mantras do Modelo Desenho Iterativo?
-a) Evitar conhecer os utilizadores
-b) Ignorar capacidades fisicas dos utilizadores
-c) "O utilizador e como eu"
-d! Conhecer os utilizadores
+ a) Evitar conhecer os utilizadores
+ b) Ignorar capacidades fisicas dos utilizadores
+ c) "O utilizador e como eu"
+ d! Conhecer os utilizadores
 53. Qual e o erro mais comum relacionado ao conhecimento dos utilizadores?
-a) Conhecer demasiado os utilizadores
-b) Nao ser um utilizador tipico
-c! Adaptar-se facilmente a mas interfaces
-d) Evitar o contexto social dos utilizadores
+ a) Conhecer demasiado os utilizadores
+ b) Nao ser um utilizador tipico
+ c! Adaptar-se facilmente a mas interfaces
+ d) Evitar o contexto social dos utilizadores
