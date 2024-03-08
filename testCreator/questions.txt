@@ -263,197 +263,197 @@
  b) Nao ser um utilizador tipico
  c! Adaptar-se facilmente a mas interfaces
  d) Evitar o contexto social dos utilizadores
-54. Qual é a principal característica dos dark patterns que os torna eficazes?
- a) Clareza e transparência na comunicação
- b! Utilização de truques para enganar os utilizadores
- c) Promoção de uma experiência de utilizador intuitiva
- d) Abordagem ética na conceção de interfaces
-55. Por que os dark patterns são mais eficazes quando os utilizadores não leem cuidadosamente todo o conteúdo de uma página?
- a) Porque as empresas preferem que os utilizadores leiam todo o conteúdo
- b) Porque os utilizadores podem encontrar informações valiosas ao ler rapidamente
- c! Porque as empresas podem aproveitar a falta de atenção para enganar os utilizadores
+54. Qual e a principal caracteristica dos dark patterns que os torna eficazes?
+ a) Clareza e transparencia na comunicacao
+ b! Utilizacao de truques para enganar os utilizadores
+ c) Promocao de uma experiencia de utilizador intuitiva
+ d) Abordagem etica na concecao de interfaces
+55. Por que os dark patterns sao mais eficazes quando os utilizadores nao leem cuidadosamente todo o conteudo de uma pagina?
+ a) Porque as empresas preferem que os utilizadores leiam todo o conteudo
+ b) Porque os utilizadores podem encontrar informacoes valiosas ao ler rapidamente
+ c! Porque as empresas podem aproveitar a falta de atencao para enganar os utilizadores
  d) Porque os dark patterns dependem da leitura cuidadosa dos utilizadores
-56. No contexto de Hidden Markov Models (HMMs), como essa tecnologia pode ser aplicada em dispositivos móveis?
- a) Exclusivamente para jogos como o Pokémon Go
- b! Para prever uma sequência desconhecida de variáveis a partir de variáveis observadas
- c) Apenas para interações por toque em ecrãs touchscreen
+56. No contexto de Hidden Markov Models (HMMs), como essa tecnologia pode ser aplicada em dispositivos moveis?
+ a) Exclusivamente para jogos como o Pokemon Go
+ b! Para prever uma sequencia desconhecida de variaveis a partir de variaveis observadas
+ c) Apenas para interacoes por toque em ecras touchscreen
  d) Para melhorar a usabilidade de desktops
-57. Qual é um dos benefícios destacados no texto em relação aos dispositivos móveis em comparação com os desktops?
- a! Maior atenção dividida
- b) A necessidade de interações longas e infrequentes
- c) Limitações sociais ao utilizá-los em locais variados
- d) A obrigatoriedade de responder imediatamente às notificações
-58. Quais são algumas das modalidades de interação mencionadas no texto para dispositivos móveis?
+57. Qual e um dos beneficios destacados no texto em relacao aos dispositivos moveis em comparacao com os desktops?
+ a! Maior atencao dividida
+ b) A necessidade de interacoes longas e infrequentes
+ c) Limitacoes sociais ao utiliza-los em locais variados
+ d) A obrigatoriedade de responder imediatamente as notificacoes
+58. Quais sao algumas das modalidades de interacao mencionadas no texto para dispositivos moveis?
  a) Apenas comandos de voz
- b) Exclusivamente toque em ecrãs touchscreen
- c) Somente botões físicos
- d! Toque, botões, comandos de voz, entre outros
-59. Como a experiência integral de utilização difere entre dispositivos móveis e desktops?
- a) Não há diferenças significativas entre UI e UX
- b) A usabilidade do utilizador tem um impacto menor em dispositivos móveis
- c) A experiência da pessoa é mais marcante em desktops
- d! A usabilidade do utilizador e a experiência da pessoa têm um impacto elevado e marcam uma diferença acentuada entre IPM e Desktop
-60. O que é destacado como um cuidado importante ao utilizar dispositivos móveis devido à sua praticidade?
+ b) Exclusivamente toque em ecras touchscreen
+ c) Somente botoes fisicos
+ d! Toque, botoes, comandos de voz, entre outros
+59. Como a experiencia integral de utilizacao difere entre dispositivos moveis e desktops?
+ a) Nao ha diferencas significativas entre UI e UX
+ b) A usabilidade do utilizador tem um impacto menor em dispositivos moveis
+ c) A experiencia da pessoa e mais marcante em desktops
+ d! A usabilidade do utilizador e a experiencia da pessoa tem um impacto elevado e marcam uma diferenca acentuada entre IPM e Desktop
+60. O que e destacado como um cuidado importante ao utilizar dispositivos moveis devido a sua praticidade?
  a) A necessidade de fazer tudo de uma vez
- b) A impossibilidade de responder às notificações imediatamente
- c! A restrição social que esses dispositivos trazem
- d) A atenção dividida e a resposta imediata às notificações
-61. Qual é o principal desafio abordado pelo conceito de "Reachability" em dispositivos móveis?
- a) Estorvar a experiência do utilizador
- b! Dificuldade em alcançar a parte superior do ecrã com o polegar
- c) Barra de pesquisa na parte inferior do ecrã
- d) Facilidade de interação com dois polegares
-62. O que é o "Fat Finger Problem" em dispositivos móveis?
- a) Dificuldade em segurar o dispositivo devido à largura dos dedos
- b) Problema relacionado com o peso excessivo dos dispositivos móveis
- c! Dificuldade ao utilizar um ecrã táctil devido a botões e secções pequenas
- d) Falta de espaço de armazenamento nos dispositivos
-63. Quais são algumas das soluções mencionadas para o "Fat Finger Problem"?
+ b) A impossibilidade de responder as notificacoes imediatamente
+ c! A restricao social que esses dispositivos trazem
+ d) A atencao dividida e a resposta imediata as notificacoes
+61. Qual e o principal desafio abordado pelo conceito de "Reachability" em dispositivos moveis?
+ a) Estorvar a experiencia do utilizador
+ b! Dificuldade em alcancar a parte superior do ecra com o polegar
+ c) Barra de pesquisa na parte inferior do ecra
+ d) Facilidade de interacao com dois polegares
+62. O que e o "Fat Finger Problem" em dispositivos moveis?
+ a) Dificuldade em segurar o dispositivo devido a largura dos dedos
+ b) Problema relacionado com o peso excessivo dos dispositivos moveis
+ c! Dificuldade ao utilizar um ecra tactil devido a botoes e seccoes pequenas
+ d) Falta de espaco de armazenamento nos dispositivos
+63. Quais sao algumas das solucoes mencionadas para o "Fat Finger Problem"?
  a) Realidade aumentada, haptics, biometria
  b! Detached Overlay, Autocorrect, Swift-key, Back-of-the-device, Gestos
- c) Aumento do tamanho do dispositivo, redução da sensibilidade ao toque
- d) Ajuste automático do brilho, reconhecimento facial, gestos 3D
-64. Qual é a importância das regras para gestos em dispositivos móveis?
- a) Restringir o uso de gestos para evitar confusão
- b) Facilitar a interação sem a necessidade de regras
- c! Garantir que os utilizadores tenham uma experiência mais agradável
+ c) Aumento do tamanho do dispositivo, reducao da sensibilidade ao toque
+ d) Ajuste automatico do brilho, reconhecimento facial, gestos 3D
+64. Qual e a importancia das regras para gestos em dispositivos moveis?
+ a) Restringir o uso de gestos para evitar confusao
+ b) Facilitar a interacao sem a necessidade de regras
+ c! Garantir que os utilizadores tenham uma experiencia mais agradavel
  d) Ignorar completamente as regras para promover a criatividade
-65. O que é destacado como uma das novas técnicas de interação focadas em dispositivos móveis?
- a) Aumento do tamanho e espaçamento
- b! Interação com dispositivos sem olhar para eles
- c) Utilização exclusiva de gestos 3D
- d) Redução do feedback tátil nos dispositivos móveis
-66. Como o Machine Learning contribui para a interação do utilizador nos dispositivos móveis?
- a) Limitando-se a fornecer sugestões de palavras
- b! Aprendendo diretamente com as ações do utilizador
- c) Ignorando padrões de comportamento
- d) Sendo utilizado exclusivamente para análise de voz
-67. A que se refere a heurística H1, "Tornar estado do sistema visível"?
+65. O que e destacado como uma das novas tecnicas de interacao focadas em dispositivos moveis?
+ a) Aumento do tamanho e espacamento
+ b! Interacao com dispositivos sem olhar para eles
+ c) Utilizacao exclusiva de gestos 3D
+ d) Reducao do feedback tatil nos dispositivos moveis
+66. Como o Machine Learning contribui para a interacao do utilizador nos dispositivos moveis?
+ a) Limitando-se a fornecer sugestoes de palavras
+ b! Aprendendo diretamente com as acoes do utilizador
+ c) Ignorando padroes de comportamento
+ d) Sendo utilizado exclusivamente para analise de voz
+67. A que se refere a heuristica H1, "Tornar estado do sistema visivel"?
  a) Utilizar terminologia familiar ao utilizador
- b) Minimizar o fator de surpresa nas ações
- c! Dar ao utilizador conhecimento do local e estado na aplicação
- d) Facilitar a interação eyes-free com o dispositivo
-68. O que é destacado na heurística H3, "Utilizador controla e exerce livre arbítrio"?
+ b) Minimizar o fator de surpresa nas acoes
+ c! Dar ao utilizador conhecimento do local e estado na aplicacao
+ d) Facilitar a interacao eyes-free com o dispositivo
+68. O que e destacado na heuristica H3, "Utilizador controla e exerce livre arbitrio"?
  a) A linguagem do utilizador
- b! A possibilidade do utilizador sair de situações inesperadas
- c) A minimização do fator de surpresa
- d) A consistência e adesão a normas
-69. Qual é o principal objetivo da heurística H5, "Evitar erros"?
- a) Tornar o sistema visível
+ b! A possibilidade do utilizador sair de situacoes inesperadas
+ c) A minimizacao do fator de surpresa
+ d) A consistencia e adesao a normas
+69. Qual e o principal objetivo da heuristica H5, "Evitar erros"?
+ a) Tornar o sistema visivel
  b) Minimizar o fator de surpresa
- c) Garantir que o utilizador controla e exerce livre arbítrio
- d! Dificultar a ocorrência de erros prejudiciais
-70. O que significa a heurística H7, "Flexibilidade e eficiência"?
+ c) Garantir que o utilizador controla e exerce livre arbitrio
+ d! Dificultar a ocorrencia de erros prejudiciais
+70. O que significa a heuristica H7, "Flexibilidade e eficiencia"?
  a) Ajudar o utilizador a reconhecer, diagnosticar e recuperar de erros
- b) Apresentar apenas o necessário àquele momento
- c! Permitir a realização eficiente de tarefas de vários modos diferentes
- d) Aderir a normas estéticas e minimalistas
-71. Qual é o foco da heurística H9, "Reconhecimento em vez de lembrança"?
- a) Desenho estético e minimalista
+ b) Apresentar apenas o necessario aquele momento
+ c! Permitir a realizacao eficiente de tarefas de varios modos diferentes
+ d) Aderir a normas esteticas e minimalistas
+71. Qual e o foco da heuristica H9, "Reconhecimento em vez de lembranca"?
+ a) Desenho estetico e minimalista
  b) Ajudar a reconhecer, diagnosticar e recuperar de erros
- c! Auxiliar o utilizador a tornar objetos, ações e indicações visíveis
- d) Reduzir a carga cognitiva ao tornar informações visíveis
-72. O que a heurística H8 - "Desenho estético e minimalista" destaca como uma prática importante na apresentação da interface do utilizador?
- a) Incluir o máximo de informação possível para ajudar o utilizador
- b! Manter a interface simples, apresentando apenas o necessário
+ c! Auxiliar o utilizador a tornar objetos, acoes e indicacoes visiveis
+ d) Reduzir a carga cognitiva ao tornar informacoes visiveis
+72. O que a heuristica H8 - "Desenho estetico e minimalista" destaca como uma pratica importante na apresentacao da interface do utilizador?
+ a) Incluir o maximo de informacao possivel para ajudar o utilizador
+ b! Manter a interface simples, apresentando apenas o necessario
  c) Sobrecarregar a interface com elementos decorativos
- d) Ignorar completamente o aspeto estético da aplicação
-73. Qual é o principal objetivo da heurística H9 - "Reconhecimento em vez de lembrança"?
- a) Sobrecarregar o utilizador com informações para aumentar a carga cognitiva
- b) Exigir que o utilizador memorize todas as ações possíveis na aplicação
- c! Tornar objetos, ações e indicações visíveis para reduzir a carga cognitiva
- d) Limitar o acesso a informações visíveis para criar um desafio cognitivo
-74. O que a heurística H10 - "Dar ajuda e documentação" destaca sobre o uso de ajuda em uma aplicação?
- a) A ajuda deve ser usada apenas quando não há problemas
+ d) Ignorar completamente o aspeto estetico da aplicacao
+73. Qual e o principal objetivo da heuristica H9 - "Reconhecimento em vez de lembranca"?
+ a) Sobrecarregar o utilizador com informacoes para aumentar a carga cognitiva
+ b) Exigir que o utilizador memorize todas as acoes possiveis na aplicacao
+ c! Tornar objetos, acoes e indicacoes visiveis para reduzir a carga cognitiva
+ d) Limitar o acesso a informacoes visiveis para criar um desafio cognitivo
+74. O que a heuristica H10 - "Dar ajuda e documentacao" destaca sobre o uso de ajuda em uma aplicacao?
+ a) A ajuda deve ser usada apenas quando nao ha problemas
  b) A ajuda deve ser evitada a todo custo para promover a autonomia do utilizador
- c! Oferecer acesso rápido à informação mesmo quando a interface é intuitiva
- d) A dependência total da ajuda para a utilização do sistema é aceitável
+ c! Oferecer acesso rapido a informacao mesmo quando a interface e intuitiva
+ d) A dependencia total da ajuda para a utilizacao do sistema e aceitavel
 75. De acordo com o Modelo de Processamento Humano de Card, como o ser humano pode ser descrito em termos sensoriais?
- a) Como uma máquina de processamento sequencial
- b) Como uma máquina com sentidos todos iguais
- c! Como um humúnculo sensorial com sentidos desiguais
- d) Como uma máquina que opera exclusivamente com visão, audição e toque
-76. Qual é a característica principal do sistema motor no Modelo de Processamento Humano de Card?
- a) A capacidade de prever o futuro com precisão
- b! Comunicações com o tempo, variando os tempos de resposta dos sentidos
+ a) Como uma maquina de processamento sequencial
+ b) Como uma maquina com sentidos todos iguais
+ c! Como um humunculo sensorial com sentidos desiguais
+ d) Como uma maquina que opera exclusivamente com visao, audicao e toque
+76. Qual e a caracteristica principal do sistema motor no Modelo de Processamento Humano de Card?
+ a) A capacidade de prever o futuro com precisao
+ b! Comunicacoes com o tempo, variando os tempos de resposta dos sentidos
  c) Igualdade de sensibilidade em todos os sentidos
- d) A independência total do sistema motor em relação aos outros sistemas
-77. De acordo com o Modelo de Processamento Humano de Card, quanto tempo leva o sentido auditivo para processar informações?
+ d) A independencia total do sistema motor em relacao aos outros sistemas
+77. De acordo com o Modelo de Processamento Humano de Card, quanto tempo leva o sentido auditivo para processar informacoes?
  a) 700 ms
  b! 150 ms
  c) 200 ms
  d) 300 ms
-78. O que a Lei de Fitts procura explicar em relação ao tempo de movimento em interações humanas com interfaces?
- a! A relação entre velocidade e precisão nas interações
- b) A influência do tempo na eficácia das interações
- c) A importância do tamanho dos elementos na interface
- d) A dependência exclusiva do sentido visual nas interações
-79. Qual é o nome dado à componente com logaritmo na Lei de Fitts?
- a) Constante empírica
- b! Índice de dificuldade de Fitts
+78. O que a Lei de Fitts procura explicar em relacao ao tempo de movimento em interacoes humanas com interfaces?
+ a! A relacao entre velocidade e precisao nas interacoes
+ b) A influencia do tempo na eficacia das interacoes
+ c) A importancia do tamanho dos elementos na interface
+ d) A dependencia exclusiva do sentido visual nas interacoes
+79. Qual e o nome dado a componente com logaritmo na Lei de Fitts?
+ a) Constante empirica
+ b! Indice de dificuldade de Fitts
  c) Logaritmo de Fitts
- d) Fórmula de movimento
-80. De acordo com a Lei de Fitts, o que acontece ao índice de dificuldade quando se aumenta o tamanho de um alvo?
+ d) Formula de movimento
+80. De acordo com a Lei de Fitts, o que acontece ao indice de dificuldade quando se aumenta o tamanho de um alvo?
  a) Aumenta significativamente
  b) Diminui consideravelmente
- c) Mantém-se constante
+ c) Mantem-se constante
  d! Aumenta ligeiramente
 81. Qual dos seguintes exemplos diminuiria mais o indice de dificuldade de Fitts?
  a) Aumentar um alvo de tamanho 999 para tamanho 1000
  b! Aumentar um alvo de tamanho 5 para tamanho 6
  c) Diminuir um alvo de tamanho 1000 para tamanho 999
  d) Diminuir um alvo de tamanho 6 para tamanho 5
-82. De acordo com a Lei de Fitts, o que é necessário manter constante para manter a mesma dificuldade?
+82. De acordo com a Lei de Fitts, o que e necessario manter constante para manter a mesma dificuldade?
  a) O tamanho do alvo
- b) A distância até o centro do alvo
- c! A relação D/L (Distância/Tamanho)
- d) O índice de dificuldade
-83. Qual é o principal objetivo da Lei de Hick em relação ao tempo de tomada de decisão?
- a) Aumentar a carga cognitiva para uma interação mais desafiadora
- b) Diminuir o número de opções em uma interface
- c! Prever o tempo necessário para escolher entre várias opções
- d) Maximizar a quantidade de opções em uma interface
-84. Por que uma boa interface é descrita como minimalista de acordo com a Lei de Hick?
- a) Para aumentar a carga cognitiva do usuário
- b) Para gerar problemas na interação
- c! Porque é necessário diminuir o número de opções
- d) Para criar uma experiência mais complexa
+ b) A distancia ate o centro do alvo
+ c! A relacao D/L (Distancia/Tamanho)
+ d) O indice de dificuldade
+83. Qual e o principal objetivo da Lei de Hick em relacao ao tempo de tomada de decisao?
+ a) Aumentar a carga cognitiva para uma interacao mais desafiadora
+ b) Diminuir o numero de opcoes em uma interface
+ c! Prever o tempo necessario para escolher entre varias opcoes
+ d) Maximizar a quantidade de opcoes em uma interface
+84. Por que uma boa interface e descrita como minimalista de acordo com a Lei de Hick?
+ a) Para aumentar a carga cognitiva do usuario
+ b) Para gerar problemas na interacao
+ c! Porque e necessario diminuir o numero de opcoes
+ d) Para criar uma experiencia mais complexa
 85. O que representa o coeficiente dependente da tarefa na Lei de Hick?
- a! A carga cognitiva necessária para uma interface
- b) O número total de opções em uma escolha
- c) A eficiência da interface
- d) O tempo necessário para uma decisão específica
-86. Qual é a Regra dos 4.5 na Lei de Stu Card?
- a! Agrupar elementos em conjuntos de 4 ou 5 para facilitar a contagem e visualização
- b) Agrupar elementos em conjuntos de 10 para uma melhor organização
- c) Contar elementos individualmente para maior precisão
- d) Desprezar a organização para uma abordagem mais intuitiva
-87. Como a Lei de Weber está relacionada com as implicações de desenho de uma aplicação?
- a) A Lei de Weber não tem relação com o design de uma aplicação
- b) A Lei de Weber destaca a importância do conteúdo textual nas interfaces
- c) A Lei de Weber enfatiza a necessidade de alterações bruscas para manter o interesse do utilizador
- d! A Lei de Weber sugere cuidado com as atualizações para evitar choques e desconforto ao utilizador
+ a! A carga cognitiva necessaria para uma interface
+ b) O numero total de opcoes em uma escolha
+ c) A eficiencia da interface
+ d) O tempo necessario para uma decisao especifica
+86. Qual e a Regra dos 4.5 na Lei de Stu Card?
+ a! Agrupar elementos em conjuntos de 4 ou 5 para facilitar a contagem e visualizacao
+ b) Agrupar elementos em conjuntos de 10 para uma melhor organizacao
+ c) Contar elementos individualmente para maior precisao
+ d) Desprezar a organizacao para uma abordagem mais intuitiva
+87. Como a Lei de Weber esta relacionada com as implicacoes de desenho de uma aplicacao?
+ a) A Lei de Weber nao tem relacao com o design de uma aplicacao
+ b) A Lei de Weber destaca a importancia do conteudo textual nas interfaces
+ c) A Lei de Weber enfatiza a necessidade de alteracoes bruscas para manter o interesse do utilizador
+ d! A Lei de Weber sugere cuidado com as atualizacoes para evitar choques e desconforto ao utilizador
 88. O que a Lei de Jakob destaca como importante ao criar uma interface?
  a) Utilizar muitos elementos visuais
- b) Priorizar o design estético
- c! Garantir consistência interna e externa
+ b) Priorizar o design estetico
+ c! Garantir consistencia interna e externa
  d) Ignorar modelos mentais do utilizador
-89. O que a Lei de Tesler enfatiza em relação à complexidade dos sistemas?
+89. O que a Lei de Tesler enfatiza em relacao a complexidade dos sistemas?
  a) Reduzir toda a complexidade
  b! Transferir a complexidade para o utilizador
  c) Aumentar a complexidade
  d) Eliminar completamente a complexidade
-90. Qual é o efeito do design estético em relação à usabilidade, de acordo com o Efeito Estética-Usabilidade?
+90. Qual e o efeito do design estetico em relacao a usabilidade, de acordo com o Efeito Estetica-Usabilidade?
  a) Complica a usabilidade
- b) Não tem efeito na usabilidade
+ b) Nao tem efeito na usabilidade
  c) Facilita a usabilidade
  d! Mascara problemas de usabilidade
-91. O que precedeu as Interfaces Pessoa-Máquina?
- a) Computadores Eletrónicos
- b! Interfaces Homem-Máquina
- c) Computadores Mecânicos
- d) Programação rudimentar
-92. Quem desenvolveu as Tabulating Machines na década de 1890?
+91. O que precedeu as Interfaces Pessoa-Maquina?
+ a) Computadores Eletronicos
+ b! Interfaces Homem-Maquina
+ c) Computadores Mecanicos
+ d) Programacao rudimentar
+92. Quem desenvolveu as Tabulating Machines na decada de 1890?
  a) Vannevar Bush
  b) Grace Hopper
  c) J. C. R. Licklider
@@ -463,48 +463,53 @@
  b! Grace Hopper
  c) J. C. R. Licklider
  d) Steve Jobs
-94. Qual foi o primeiro computador pessoal a ter um ecrã tátil comercial em 1972?
+94. Qual foi o primeiro computador pessoal a ter um ecra tatil comercial em 1972?
  a) Apple I
  b! Dynabook
- c) Ecrã Sensível à Força
+ c) Ecra Sensivel a Forca
  d) Commodore PET
-95. Segundo Bill Buxton, qual é o princípio básico de inovação?
- a) Avaliação
+95. Segundo Bill Buxton, qual e o principio basico de inovacao?
+ a) Avaliacao
  b! Design para as pessoas
- c) Geração de ideias
+ c) Geracao de ideias
  d) Prototipagem
-96. O que é necessário fazer para obter o melhor protótipo funcional possível?
- a) Realizar testes analíticos
+96. O que e necessario fazer para obter o melhor prototipo funcional possivel?
+ a) Realizar testes analiticos
  b! Passar por um ciclo iterativo
- c) Fazer observações indiretas
+ c) Fazer observacoes indiretas
  d) Aplicar a Lei de Fitts
-97. Quais são os dois objetivos principais nos testes realizados no ciclo iterativo?
+97. Quais sao os dois objetivos principais nos testes realizados no ciclo iterativo?
  A! Avaliar e identificar problemas
- B) Realizar testes A/B e diários
+ B) Realizar testes A/B e diarios
  C) Aplicar a Lei de Fitts e Machine Learning
- D) Fazer observações diretas e indiretas
-98. Quais são os métodos associados aos testes analíticos?
- A) Testes A/B e diários
+ D) Fazer observacoes diretas e indiretas
+98. Quais sao os metodos associados aos testes analiticos?
+ A) Testes A/B e diarios
  B! Lei de Fitts e Machine Learning
- C) Observações diretas e indiretas
+ C) Observacoes diretas e indiretas
  D) Shadowing e contextual inquiry
-99. O que caracteriza os testes empíricos no ciclo iterativo?
- A) Avaliações heurísticas
- B! Observações indiretas
+99. O que caracteriza os testes empiricos no ciclo iterativo?
+ A) Avaliacoes heuristicas
+ B! Observacoes indiretas
  C) Modelos preditivos
  D) Ciclo iterativo
-100. O que é um exemplo de observação direta nos testes empíricos?
- A) Diários
+100. O que e um exemplo de observacao direta nos testes empiricos?
+ A) Diarios
  B) Interaction logs
  C! Wizard of Oz
  D) Testes A/B
-101. Como os diários são usados na avaliação a longo prazo de um produto?
- A) Registrando interações automáticas
- B) Observações indiretas
- C) Avaliações heurísticas
- D! Compartilhando pensamentos e experiências ao longo do tempo
-102. Qual é a importância dos diários na avaliação de um produto?
+101. Como os diarios sao usados na avaliacao a longo prazo de um produto?
+ A) Registrando interacoes automaticas
+ B) Observacoes indiretas
+ C) Avaliacoes heuristicas
+ D! Compartilhando pensamentos e experiencias ao longo do tempo
+102. Qual e a importancia dos diarios na avaliacao de um produto?
  A) Avaliar a usabilidade
- B! Compreender a relação com o produto a um nível mais elevado
- C) Realizar observações diretas
- D) Testar a qualidade e utilização no dia-a-dia
+ B! Compreender a relacao com o produto a um nivel mais elevado
+ C) Realizar observacoes diretas
+ D) Testar a qualidade e utilizacao no dia-a-dia
+103. O que diz a Lei de Tesler?
+ a! Para qualquer sistema, existe um grau de complexidade que nao pode ser reduzido
+ b) Nenhuma das opcoes
+ c) O humano, em media, so consegue colocar em memoria de curto prazo (7 +- 2) items
+ d) O grau de complexidade de um qualquer sistema pode ser sempre reduzido
