@@ -263,3 +263,188 @@
  b) Nao ser um utilizador tipico
  c! Adaptar-se facilmente a mas interfaces
  d) Evitar o contexto social dos utilizadores
+54. Qual é a principal característica dos dark patterns que os torna eficazes?
+ a) Clareza e transparência na comunicação
+ b! Utilização de truques para enganar os utilizadores
+ c) Promoção de uma experiência de utilizador intuitiva
+ d) Abordagem ética na conceção de interfaces
+55. Por que os dark patterns são mais eficazes quando os utilizadores não leem cuidadosamente todo o conteúdo de uma página?
+ a) Porque as empresas preferem que os utilizadores leiam todo o conteúdo
+ b) Porque os utilizadores podem encontrar informações valiosas ao ler rapidamente
+ c! Porque as empresas podem aproveitar a falta de atenção para enganar os utilizadores
+ d) Porque os dark patterns dependem da leitura cuidadosa dos utilizadores
+56. No contexto de Hidden Markov Models (HMMs), como essa tecnologia pode ser aplicada em dispositivos móveis?
+ a) Exclusivamente para jogos como o Pokémon Go
+ b! Para prever uma sequência desconhecida de variáveis a partir de variáveis observadas
+ c) Apenas para interações por toque em ecrãs touchscreen
+ d) Para melhorar a usabilidade de desktops
+57. Qual é um dos benefícios destacados no texto em relação aos dispositivos móveis em comparação com os desktops?
+ a! Maior atenção dividida
+ b) A necessidade de interações longas e infrequentes
+ c) Limitações sociais ao utilizá-los em locais variados
+ d) A obrigatoriedade de responder imediatamente às notificações
+58. Quais são algumas das modalidades de interação mencionadas no texto para dispositivos móveis?
+ a) Apenas comandos de voz
+ b) Exclusivamente toque em ecrãs touchscreen
+ c) Somente botões físicos
+ d! Toque, botões, comandos de voz, entre outros
+59. Como a experiência integral de utilização difere entre dispositivos móveis e desktops?
+ a) Não há diferenças significativas entre UI e UX
+ b) A usabilidade do utilizador tem um impacto menor em dispositivos móveis
+ c) A experiência da pessoa é mais marcante em desktops
+ d! A usabilidade do utilizador e a experiência da pessoa têm um impacto elevado e marcam uma diferença acentuada entre IPM e Desktop
+60. O que é destacado como um cuidado importante ao utilizar dispositivos móveis devido à sua praticidade?
+ a) A necessidade de fazer tudo de uma vez
+ b) A impossibilidade de responder às notificações imediatamente
+ c! A restrição social que esses dispositivos trazem
+ d) A atenção dividida e a resposta imediata às notificações
+61. Qual é o principal desafio abordado pelo conceito de "Reachability" em dispositivos móveis?
+ a) Estorvar a experiência do utilizador
+ b! Dificuldade em alcançar a parte superior do ecrã com o polegar
+ c) Barra de pesquisa na parte inferior do ecrã
+ d) Facilidade de interação com dois polegares
+62. O que é o "Fat Finger Problem" em dispositivos móveis?
+ a) Dificuldade em segurar o dispositivo devido à largura dos dedos
+ b) Problema relacionado com o peso excessivo dos dispositivos móveis
+ c! Dificuldade ao utilizar um ecrã táctil devido a botões e secções pequenas
+ d) Falta de espaço de armazenamento nos dispositivos
+63. Quais são algumas das soluções mencionadas para o "Fat Finger Problem"?
+ a) Realidade aumentada, haptics, biometria
+ b! Detached Overlay, Autocorrect, Swift-key, Back-of-the-device, Gestos
+ c) Aumento do tamanho do dispositivo, redução da sensibilidade ao toque
+ d) Ajuste automático do brilho, reconhecimento facial, gestos 3D
+64. Qual é a importância das regras para gestos em dispositivos móveis?
+ a) Restringir o uso de gestos para evitar confusão
+ b) Facilitar a interação sem a necessidade de regras
+ c! Garantir que os utilizadores tenham uma experiência mais agradável
+ d) Ignorar completamente as regras para promover a criatividade
+65. O que é destacado como uma das novas técnicas de interação focadas em dispositivos móveis?
+ a) Aumento do tamanho e espaçamento
+ b! Interação com dispositivos sem olhar para eles
+ c) Utilização exclusiva de gestos 3D
+ d) Redução do feedback tátil nos dispositivos móveis
+66. Como o Machine Learning contribui para a interação do utilizador nos dispositivos móveis?
+ a) Limitando-se a fornecer sugestões de palavras
+ b! Aprendendo diretamente com as ações do utilizador
+ c) Ignorando padrões de comportamento
+ d) Sendo utilizado exclusivamente para análise de voz
+67. A que se refere a heurística H1, "Tornar estado do sistema visível"?
+ a) Utilizar terminologia familiar ao utilizador
+ b) Minimizar o fator de surpresa nas ações
+ c! Dar ao utilizador conhecimento do local e estado na aplicação
+ d) Facilitar a interação eyes-free com o dispositivo
+68. O que é destacado na heurística H3, "Utilizador controla e exerce livre arbítrio"?
+ a) A linguagem do utilizador
+ b! A possibilidade do utilizador sair de situações inesperadas
+ c) A minimização do fator de surpresa
+ d) A consistência e adesão a normas
+69. Qual é o principal objetivo da heurística H5, "Evitar erros"?
+ a) Tornar o sistema visível
+ b) Minimizar o fator de surpresa
+ c) Garantir que o utilizador controla e exerce livre arbítrio
+ d! Dificultar a ocorrência de erros prejudiciais
+70. O que significa a heurística H7, "Flexibilidade e eficiência"?
+ a) Ajudar o utilizador a reconhecer, diagnosticar e recuperar de erros
+ b) Apresentar apenas o necessário àquele momento
+ c! Permitir a realização eficiente de tarefas de vários modos diferentes
+ d) Aderir a normas estéticas e minimalistas
+71. Qual é o foco da heurística H9, "Reconhecimento em vez de lembrança"?
+ a) Desenho estético e minimalista
+ b) Ajudar a reconhecer, diagnosticar e recuperar de erros
+ c! Auxiliar o utilizador a tornar objetos, ações e indicações visíveis
+ d) Reduzir a carga cognitiva ao tornar informações visíveis
+72. O que a heurística H8 - "Desenho estético e minimalista" destaca como uma prática importante na apresentação da interface do utilizador?
+ a) Incluir o máximo de informação possível para ajudar o utilizador
+ b! Manter a interface simples, apresentando apenas o necessário
+ c) Sobrecarregar a interface com elementos decorativos
+ d) Ignorar completamente o aspeto estético da aplicação
+73. Qual é o principal objetivo da heurística H9 - "Reconhecimento em vez de lembrança"?
+ a) Sobrecarregar o utilizador com informações para aumentar a carga cognitiva
+ b) Exigir que o utilizador memorize todas as ações possíveis na aplicação
+ c! Tornar objetos, ações e indicações visíveis para reduzir a carga cognitiva
+ d) Limitar o acesso a informações visíveis para criar um desafio cognitivo
+74. O que a heurística H10 - "Dar ajuda e documentação" destaca sobre o uso de ajuda em uma aplicação?
+ a) A ajuda deve ser usada apenas quando não há problemas
+ b) A ajuda deve ser evitada a todo custo para promover a autonomia do utilizador
+ c! Oferecer acesso rápido à informação mesmo quando a interface é intuitiva
+ d) A dependência total da ajuda para a utilização do sistema é aceitável
+75. De acordo com o Modelo de Processamento Humano de Card, como o ser humano pode ser descrito em termos sensoriais?
+ a) Como uma máquina de processamento sequencial
+ b) Como uma máquina com sentidos todos iguais
+ c! Como um humúnculo sensorial com sentidos desiguais
+ d) Como uma máquina que opera exclusivamente com visão, audição e toque
+76. Qual é a característica principal do sistema motor no Modelo de Processamento Humano de Card?
+ a) A capacidade de prever o futuro com precisão
+ b! Comunicações com o tempo, variando os tempos de resposta dos sentidos
+ c) Igualdade de sensibilidade em todos os sentidos
+ d) A independência total do sistema motor em relação aos outros sistemas
+77. De acordo com o Modelo de Processamento Humano de Card, quanto tempo leva o sentido auditivo para processar informações?
+ a) 700 ms
+ b! 150 ms
+ c) 200 ms
+ d) 300 ms
+78. O que a Lei de Fitts procura explicar em relação ao tempo de movimento em interações humanas com interfaces?
+ a! A relação entre velocidade e precisão nas interações
+ b) A influência do tempo na eficácia das interações
+ c) A importância do tamanho dos elementos na interface
+ d) A dependência exclusiva do sentido visual nas interações
+79. Qual é o nome dado à componente com logaritmo na Lei de Fitts?
+ a) Constante empírica
+ b! Índice de dificuldade de Fitts
+ c) Logaritmo de Fitts
+ d) Fórmula de movimento
+80. De acordo com a Lei de Fitts, o que acontece ao índice de dificuldade quando se aumenta o tamanho de um alvo?
+ a) Aumenta significativamente
+ b) Diminui consideravelmente
+ c) Mantém-se constante
+ d! Aumenta ligeiramente
+81. Qual dos seguintes exemplos diminuiria mais o indice de dificuldade de Fitts?
+ a) Aumentar um alvo de tamanho 999 para tamanho 1000
+ b! Aumentar um alvo de tamanho 5 para tamanho 6
+ c) Diminuir um alvo de tamanho 1000 para tamanho 999
+ d) Diminuir um alvo de tamanho 6 para tamanho 5
+82. De acordo com a Lei de Fitts, o que é necessário manter constante para manter a mesma dificuldade?
+ a) O tamanho do alvo
+ b) A distância até o centro do alvo
+ c! A relação D/L (Distância/Tamanho)
+ d) O índice de dificuldade
+83. Qual é o principal objetivo da Lei de Hick em relação ao tempo de tomada de decisão?
+ a) Aumentar a carga cognitiva para uma interação mais desafiadora
+ b) Diminuir o número de opções em uma interface
+ c! Prever o tempo necessário para escolher entre várias opções
+ d) Maximizar a quantidade de opções em uma interface
+84. Por que uma boa interface é descrita como minimalista de acordo com a Lei de Hick?
+ a) Para aumentar a carga cognitiva do usuário
+ b) Para gerar problemas na interação
+ c! Porque é necessário diminuir o número de opções
+ d) Para criar uma experiência mais complexa
+85. O que representa o coeficiente dependente da tarefa na Lei de Hick?
+ a! A carga cognitiva necessária para uma interface
+ b) O número total de opções em uma escolha
+ c) A eficiência da interface
+ d) O tempo necessário para uma decisão específica
+86. Qual é a Regra dos 4.5 na Lei de Stu Card?
+ a! Agrupar elementos em conjuntos de 4 ou 5 para facilitar a contagem e visualização
+ b) Agrupar elementos em conjuntos de 10 para uma melhor organização
+ c) Contar elementos individualmente para maior precisão
+ d) Desprezar a organização para uma abordagem mais intuitiva
+87. Como a Lei de Weber está relacionada com as implicações de desenho de uma aplicação?
+ a) A Lei de Weber não tem relação com o design de uma aplicação
+ b) A Lei de Weber destaca a importância do conteúdo textual nas interfaces
+ c) A Lei de Weber enfatiza a necessidade de alterações bruscas para manter o interesse do utilizador
+ d! A Lei de Weber sugere cuidado com as atualizações para evitar choques e desconforto ao utilizador
+88. O que a Lei de Jakob destaca como importante ao criar uma interface?
+ a) Utilizar muitos elementos visuais
+ b) Priorizar o design estético
+ c! Garantir consistência interna e externa
+ d) Ignorar modelos mentais do utilizador
+89. O que a Lei de Tesler enfatiza em relação à complexidade dos sistemas?
+ a) Reduzir toda a complexidade
+ b! Transferir a complexidade para o utilizador
+ c) Aumentar a complexidade
+ d) Eliminar completamente a complexidade
+90. Qual é o efeito do design estético em relação à usabilidade, de acordo com o Efeito Estética-Usabilidade?
+ a) Complica a usabilidade
+ b) Não tem efeito na usabilidade
+ c) Facilita a usabilidade
+ d! Mascara problemas de usabilidade
