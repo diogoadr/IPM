@@ -448,3 +448,63 @@
  b) Não tem efeito na usabilidade
  c) Facilita a usabilidade
  d! Mascara problemas de usabilidade
+91. O que precedeu as Interfaces Pessoa-Máquina?
+ a) Computadores Eletrónicos
+ b! Interfaces Homem-Máquina
+ c) Computadores Mecânicos
+ d) Programação rudimentar
+92. Quem desenvolveu as Tabulating Machines na década de 1890?
+ a) Vannevar Bush
+ b) Grace Hopper
+ c) J. C. R. Licklider
+ d! IBM
+93. Quem criou o primeiro compilador em 1950?
+ a) Vannevar Bush
+ b! Grace Hopper
+ c) J. C. R. Licklider
+ d) Steve Jobs
+94. Qual foi o primeiro computador pessoal a ter um ecrã tátil comercial em 1972?
+ a) Apple I
+ b! Dynabook
+ c) Ecrã Sensível à Força
+ d) Commodore PET
+95. Segundo Bill Buxton, qual é o princípio básico de inovação?
+ a) Avaliação
+ b! Design para as pessoas
+ c) Geração de ideias
+ d) Prototipagem
+96. O que é necessário fazer para obter o melhor protótipo funcional possível?
+ a) Realizar testes analíticos
+ b! Passar por um ciclo iterativo
+ c) Fazer observações indiretas
+ d) Aplicar a Lei de Fitts
+97. Quais são os dois objetivos principais nos testes realizados no ciclo iterativo?
+ A! Avaliar e identificar problemas
+ B) Realizar testes A/B e diários
+ C) Aplicar a Lei de Fitts e Machine Learning
+ D) Fazer observações diretas e indiretas
+98. Quais são os métodos associados aos testes analíticos?
+ A) Testes A/B e diários
+ B! Lei de Fitts e Machine Learning
+ C) Observações diretas e indiretas
+ D) Shadowing e contextual inquiry
+99. O que caracteriza os testes empíricos no ciclo iterativo?
+ A) Avaliações heurísticas
+ B! Observações indiretas
+ C) Modelos preditivos
+ D) Ciclo iterativo
+100. O que é um exemplo de observação direta nos testes empíricos?
+ A) Diários
+ B) Interaction logs
+ C! Wizard of Oz
+ D) Testes A/B
+101. Como os diários são usados na avaliação a longo prazo de um produto?
+ A) Registrando interações automáticas
+ B) Observações indiretas
+ C) Avaliações heurísticas
+ D! Compartilhando pensamentos e experiências ao longo do tempo
+102. Qual é a importância dos diários na avaliação de um produto?
+ A) Avaliar a usabilidade
+ B! Compreender a relação com o produto a um nível mais elevado
+ C) Realizar observações diretas
+ D) Testar a qualidade e utilização no dia-a-dia
