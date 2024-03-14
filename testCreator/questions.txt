@@ -513,3 +513,8 @@
  b) Nenhuma das opcoes
  c) O humano, em media, so consegue colocar em memoria de curto prazo (7 +- 2) items
  d) O grau de complexidade de um qualquer sistema pode ser sempre reduzido
+104. Na primeira heurística de usabilidade (tornar estado do sistema vísivel), qual é a recomendacao para eventos que durem mais de 10 segundos?
+ a) Mudar o cursor
+ b! Mostrar indicadores de progresso
+ c) Não sao necessásrios indicadores
+ d) Mostrar o tempo em falta
